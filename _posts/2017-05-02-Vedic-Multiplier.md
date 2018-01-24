@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Low Power Vedic Multiplier Design"
+title: "Low Power CMOS Vedic Multiplier Design"
 ---
 ## Spring 2017
 

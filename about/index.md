@@ -7,7 +7,7 @@ I was raised in Little Rock, Arkansas under a family that was extremely gracious
 
 My strengths include (but are obviously not limited to) a familiarity with hardware description languages such as Verilog and VHDL as well as a wide range of VLSI design and analysis tools. I have the most programming experience creating projects with Python, C/C++, Java, JS, and HTML. That being said, learning new syntax has never been the difficult part of problem solving for me.
 
-Outside of school I spend most of my time diving into books or podcasts about politics, Jungian psychology, or new technologies such as cryptocurrency.
+Outside of school I spend most of my time diving into books or podcasts about politics, Jungian psychology, or new topics in computing such as cryptocurrency.
 
 # Contact Information
 Zack Fravel   

@@ -9,7 +9,7 @@ My strengths include (but are obviously not limited to) a familiarity with hardw
 
 My most recent passion is learning new ways to create music with modular synthesizers. I have spent the last two years investigating new exciting ways to create art with electronics. Throughout this time I've taught myself skills in DIY electronics, as well as formed a network of peers who have offered their mentorship and guidence.
 
-Outside of school, while I'm not playing music, I spend most of my time diving into books or podcasts about politics, Jungian psychology, or new topics in computing such as cryptocurrency. 
+Outside of school, while I'm not playing music, I spend most of my time diving into books or podcasts about politics, Jungian psychology, or new topics in computing, such as cryptocurrency. 
 
 # Contact Information
 Zack Fravel   

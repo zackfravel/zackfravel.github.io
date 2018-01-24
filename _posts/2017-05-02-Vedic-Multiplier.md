@@ -1,4 +1,4 @@
 ---
 layout: post
-title: "Low Power Vedic Multiplier"
+title: "Low Power Vedic Multiplier Design"
 ---

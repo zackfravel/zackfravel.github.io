@@ -1,4 +1,4 @@
 name: Zack Fravel
 markdown: kramdown
 
-permalink: /projects/:year/:month/:day/:title
+permalink: /projects/:title

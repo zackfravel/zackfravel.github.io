@@ -1,3 +1,3 @@
-# zackfravel.github.io
+# Zack Fravel
 
-This is my website
+Thanks for visiting! 

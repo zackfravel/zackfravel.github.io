@@ -1,4 +1,4 @@
 ---
 layout: post
-title: "Vending Machine"
+title: "Vending Machine Finite State Machine"
 ---

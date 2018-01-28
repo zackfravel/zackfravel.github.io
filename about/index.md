@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 # About
-I grew up in a medical family in Little Rock, Arkansas with a burgeoning interest in computers and music, which has served me well to this day. I was (and still am) extremely curious, susceptible to being consumed by wiki rabbit holes. While studying at the University of Arkansas at Fayetteville I did my best to make the most of my time as an undergraduate, taking courses that piqued my interest in engineering, ethical thoery, and psychology.    
+I grew up in a medical family in Little Rock, Arkansas with a burgeoning interest in computers and music, which has served me well to this day. While studying at the University of Arkansas at Fayetteville I did my best to make the most of my time as an undergraduate, taking courses that piqued my interest in engineering, ethical thoery, and psychology.    
 
 My strengths include (but are obviously not limited to) a strong familiarity with hardware description languages (Verilog / VHDL) as well as a wide range of VLSI design and analysis tools having completed projects in a variety of areas including embedded systems and low power CMOS. Having worked in a mulitude of programming languages up to this point (Python, C/C++, Java, HTML, and graphics work in OpenGL), I'm very comfortable working in new environments. I've got experience in mobile development with Android and am currently at work with a group creating a web-based frontend for oxDNA, a molecular dynamics simlation software.
 

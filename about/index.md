@@ -7,7 +7,7 @@ I grew up in Little Rock, Arkansas with a burgeoning interest in computers and m
 
 My strengths include a strong familiarity with hardware description languages (Verilog / VHDL) as well as a wide range of VLSI design and analysis tools having completed projects in a variety of areas including embedded systems and low power CMOS. I've also got some experience in mobile development with Android and am currently at work with a group creating a web-based frontend for oxDNA, a molecular dynamics simlation software, using Angular and Django.
 
-My most recent passion is learning new ways to create music with modular synthesizers. I have spent the last two years investigating exciting ways to perform local music shows with analog electronic circuitry. For me, playing music is as much a meditative exercise as it is a creative process. I feel there is a significant relationship between productivity and engaging in mental exercise like this. Throughout this time I've taught myself skills in DIY electronics, as well as formed a network of peers who have offered their mentorship and guidance.
+My most recent passion is learning new ways to create music with modular synthesizers. I have spent the last two years investigating exciting ways to perform local music shows with analog electronic circuitry. Creating music for me is as much a meditative exercise as it is a creative process. I feel there is a significant relationship between productivity and engaging in mental exercise like this. Throughout this time I've taught myself skills in DIY electronics, as well as formed a network of peers who have offered their mentorship and guidance.
 
 # Contact Information
 Zack Fravel   

@@ -10,8 +10,6 @@ My most recent passion has been learning new ways to create music with electroni
 Outside of all that, I love film photography and the effort that goes into the process. A selection of photographs I've taken can be seen under the 'Photography' section. I am a big fan of pretty much all forms of art from standup comedy to classic films to avante garde noise soundtracks. I like to be as open as possible to new ideas, which I believe in the long term is very important to performing well in most aspects in life. 
 
 # Contact Information
-Zack Fravel   
-135 Hickory Creek Circle
-Little Rock, AR, 72212
+Zack Fravel  
 (501) 519 - 7667   
 mail@zackfravel.com   

@@ -7,12 +7,11 @@ I grew up in Little Rock, Arkansas with a burgeoning interest in technology and 
 
 My most recent passion has been learning new ways to create music with electronics, mainly modular synthesizers. In the last two years I was in school I decided I wanted to take what I've learned and what I've experienced and start performing my own music for people. This allowed me to really begin to learn the nuances of the creative process and how that relates to not only problem solving in engineering but also personal devlopment. Now that I'm starting to create my own synthesizers I am excited see where this will take me and how I will be able to apply these skills elsewhere in the world. 
 
-Outside of all that, I love film photography and the effort that goes into the process. A selection of photographs I've taken can be seen under the 'Photography' section. I am a big fan of pretty much all forms of art from standup comedy to classic films to avante garde noise soundtracks. I like to be as open as possible to new ideas, which I believe in the long term is very important to performing well in most aspects in life.  
+Outside of all that, I love film photography and the effort that goes into the process. A selection of photographs I've taken can be seen under the 'Photography' section. I am a big fan of pretty much all forms of art from standup comedy to classic films to avante garde noise soundtracks. I like to be as open as possible to new ideas, which I believe in the long term is very important to performing well in most aspects in life. 
 
 # Contact Information
 Zack Fravel   
-150 S Hill Ave   
-Eco 1 Apt 205   
-Fayetteville, AR, 72701   
+135 Hickory Creek Circle
+Little Rock, AR, 72212
 (501) 519 - 7667   
 mail@zackfravel.com   

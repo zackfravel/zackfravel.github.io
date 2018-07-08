@@ -3,11 +3,11 @@ layout: default
 title: About
 ---
 # About
-I grew up in Little Rock, Arkansas with a burgeoning interest in computers and music. While studying at the University of Arkansas at Fayetteville I did my best to make the most of my time as an undergraduate by taking courses that piqued my interest in engineering, ethics, and psychology.    
+I grew up in Little Rock, Arkansas with a burgeoning interest in technology and music. While studying at the University of Arkansas at Fayetteville I did my best to make the most of my time as an undergraduate by taking courses that piqued my interest in engineering, philosophy, and psychology.    
 
-My strengths include a strong familiarity with hardware description languages (Verilog / VHDL) as well as a wide range of VLSI design and analysis tools having completed projects in a variety of areas including embedded systems and low power CMOS. I've also got some experience in mobile development with Android and am currently at work with a group creating a web-based frontend for oxDNA, a molecular dynamics simlation software, using Angular and Django.
+My most recent passion has been learning new ways to create music with electronics, mainly modular synthesizers. In the last two years I was in school I decided I wanted to take what I've learned and what I've experienced and start performing my own music for people. This allowed me to really begin to learn the nuances of the creative process and how that relates to not only problem solving in engineering but also personal devlopment. Now that I'm starting to create my own synthesizers I am excited see where this will take me and how I will be able to apply these skills elsewhere in the world. 
 
-My most recent passion is learning new ways to create music with modular synthesizers. I have spent the last two years investigating exciting ways to perform local music shows with analog electronic circuitry. Creating music for me is as much a meditative exercise as it is a creative process. I feel there is a significant relationship between productivity and engaging in mental exercises such as this. Throughout this time I've taught myself skills in DIY electronics, as well as formed a network of peers who have offered their mentorship and guidance.
+Outside of all that, I love film photography and the effort that goes into the process. A selection of photographs I've taken can be seen under the 'Photography' section. I am a big fan of pretty much all forms of art from standup comedy to classic films to avante garde noise soundtracks. I like to be as open as possible to new ideas, which I believe in the long term is very important to performing well in most aspects in life.  
 
 # Contact Information
 Zack Fravel   
